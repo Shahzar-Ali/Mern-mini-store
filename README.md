@@ -18,6 +18,7 @@
         <li><strong>Update Product:</strong> Edit details of existing products directly from the product cards.</li>
         <li><strong>Delete Product:</strong> Remove products from the database using the delete button on product cards.</li>
         <li><strong>Page Not Found:</strong> A dedicated page for handling unknown routes.</li>
+        <li><strong>Light and Dark Mode:</strong> Users can switch between light and dark themes for better accessibility.</li>
     </ul>
 
   <h2>Tech Stack</h2>

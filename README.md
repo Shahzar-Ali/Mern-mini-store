@@ -45,19 +45,21 @@
 
   <h3>Setup</h3>
     <ol>
-        <li>Clone the repository:
-            <pre><code>git clone https://github.com/Shahzar-Ali/Mern-mini-store.git
-cd Mern-mini-store</code></pre>
+        <li><strong>Clone the repository:</strong>
+            <pre><code>git clone https://github.com/Shahzar-Ali/Mern-mini-store.git</code></pre>
         </li>
-        <li>Install all dependencies and build the application:
+        <li><strong>Navigate to the project directory:</strong>
+            <pre><code>cd Mern-mini-store</code></pre>
+        </li>
+        <li><strong>Install all dependencies and build the application:</strong>
             <pre><code>npm run build</code></pre>
         </li>
-        <li>Set up environment variables:
+        <li><strong>Set up environment variables:</strong>
             <p>Create a <code>.env</code> file in the root directory (next to the <code>backend</code> and <code>frontend</code> folders) and add the following:</p>
             <pre><code>MONGO_URI=&lt;your_mongodb_connection_string&gt;
 PORT=5000</code></pre>
         </li>
-        <li>Start the backend server:
+        <li><strong>Start the backend server:</strong>
             <pre><code>npm start</code></pre>
         </li>
     </ol>
